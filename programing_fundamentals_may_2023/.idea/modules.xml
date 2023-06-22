@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../programing_basics_march_2023/.idea/programing_basics_march_2023.iml" filepath="$PROJECT_DIR$/../programing_basics_march_2023/.idea/programing_basics_march_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/programing_fundamentals_may_2023.iml" filepath="$PROJECT_DIR$/.idea/programing_fundamentals_may_2023.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+first_number = int(input())
+second_number = int(input())
+third_number = int(input())
+
+max_number = first_number
+
+if second_number > first_number:
+    max_number = second_number
+    if third_number > second_number:
+        max_number = third_number
+elif third_number > first_number:
+    max_number = third_number
+
+print(max_number)
