@@ -84,6 +84,20 @@
 # # sorted_by_third_letter = sorted(my_list, key=lambda x: x[2])
 # # print(sorted_by_third_letter)
 
-my_list = [2.515646, 4.9154646, 5.06546543]
+# my_list = [2.515646, 4.9154646, 5.06546543]
+#
+# my_list_rounded = list(map())
 
-my_list_rounded = list(map())
+# mammals = ["mamal1", "mamal2"]
+# fish = ["fish1", "fish2"]
+# birds = ["bird1", "bird2"]
+# species = input()
+# species_to_print = []
+# if species == "mammal":
+#     species_to_print += mammals
+# elif species == "fish":
+#     species_to_print += fish
+# elif species == "bird":
+#     species_to_print += birds
+#
+# print(species_to_print)
